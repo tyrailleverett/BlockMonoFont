@@ -24,6 +24,8 @@ A programming font based on IBM Plex Mono, enhanced for improved readability and
 
 ## Font Showcase
 
+### Block Mono Font
+
 ![Block Mono Font Preview](assets/blockmono.png)
 
 ## License
